@@ -1,0 +1,6 @@
+@GuramHM_HostAddress = http://localhost:5093
+
+GET {{GuramHM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
